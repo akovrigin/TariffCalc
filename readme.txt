@@ -2,6 +2,6 @@ Mobile Tariff Calculator
 
 Problem: implement the requirements of "Mobile Tariff Calculator"
 
-Description: https://github.com/akovrigin/TariffCalc/blob/master/Mobile tariff calculator - coding challenge.pdf
+Description: https://github.com/akovrigin/TariffCalc/blob/master/Mobile_tariff_calculator.pdf
 
 Source code: https://github.com/akovrigin/TariffCalc
